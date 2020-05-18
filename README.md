@@ -1,6 +1,6 @@
 # ToDoList
 ## Лаба спп-2
-### Мархоцкий Антон
+### Тютюрин Егор
 
 Приложение для создания списка задач. 
 
@@ -12,5 +12,5 @@
 * редактирования задачи в todolist
 * удаления задачи из todolist
 
-ссылка на видос: https://youtu.be/_w2Yj3VJfAM
+ссылка на видос: https://www.youtube.com/watch?v=rADwbZAKAms&feature=youtu.be
 
